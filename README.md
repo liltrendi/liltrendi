@@ -17,7 +17,7 @@
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=liltrendi&hide=contribs&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltrendi&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
 
-<h2> Technologies </h2>
+<h2> Front End Technologies </h2>
 
 <p>
   <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>
@@ -27,11 +27,9 @@
   <img alt="Gatsby badge" src="https://img.shields.io/badge/gatsby%20-%237026B9.svg?&style=for-the-badge&logo=gatsby&logoColor=white" height=30 width=100/> 
   <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
   <img alt="React Native badge" src="https://img.shields.io/badge/react%20native%20-%23F05032.svg?&style=for-the-badge&logo=react&logoColor=white" height=30 width=100/> 
-  <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=white" height=30 width=100/> 
-  <img alt="GraphQL badge" src="https://img.shields.io/badge/graphql%20-%23e00097.svg?&style=for-the-badge&logo=graphql&logoColor=white" height=30 width=100/> 
-  <img src ="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black" height=30 width=100 />
-  <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
   <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/>
+  <img alt="GraphQL badge" src="https://img.shields.io/badge/graphql%20-%23e00097.svg?&style=for-the-badge&logo=graphql&logoColor=white" height=30 width=100/>
+  <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=white" height=30 width=100/> 
   <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
 </p>
 
