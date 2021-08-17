@@ -28,6 +28,7 @@
   <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
   <img alt="React Native badge" src="https://img.shields.io/badge/react%20native%20-%23F05032.svg?&style=for-the-badge&logo=react&logoColor=white" height=30 width=100/> 
   <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/>
+  <img alt="Mobx badge" src="https://img.shields.io/badge/mobx%20-%23dd5b16.svg?&style=for-the-badge&logo=mobx&logoColor=white" height=30 width=100/>
   <img alt="GraphQL badge" src="https://img.shields.io/badge/graphql%20-%23e00097.svg?&style=for-the-badge&logo=graphql&logoColor=white" height=30 width=100/>
   <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=white" height=30 width=100/> 
   <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
