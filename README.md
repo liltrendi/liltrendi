@@ -19,11 +19,14 @@
 
 <h2> Technologies </h2>
 
-<p> <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/> <img src ="https://img.shields.io/badge/bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&logo=bootstrap&logoColor=black" /> 
-<img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/> <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
- <img src ="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black" height=30 width=100 />
-<img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
-<img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/> <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
+<p>
+  <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" height=30 width=100/>  
+  <img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/>
+  <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
+  <img src ="https://img.shields.io/badge/firebase%20-%23F7DF1E.svg?&style=for-the-badge&logo=firebase&logoColor=black" height=30 width=100 />
+  <img alt="PostgreSQL badge" src="https://img.shields.io/badge/postgresql%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height=30 width=100/>
+  <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/> <img alt="Git badge" src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" height=30 width=100/> 
 </p>
 
 
