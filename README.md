@@ -25,16 +25,17 @@
   <img alt="JavaScript badge" src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height=30 width=100/>
   <img alt="TypeScript badge" src="https://img.shields.io/badge/typescript%20-%233278c6.svg?&style=for-the-badge&logo=typescript&logoColor=white" height=30 width=100/>
   <img alt="Gatsby badge" src="https://img.shields.io/badge/gatsby%20-%237026B9.svg?&style=for-the-badge&logo=gatsby&logoColor=white" height=30 width=100/> 
-  <img alt="React badge" src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
-  <img alt="React Native badge" src="https://img.shields.io/badge/react%20native%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=black" height=30 width=100/> 
+  <img alt="React badge" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=30 width=100/> 
+  <img alt="React Native badge" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=30 width=100/> 
   <img alt="Redux badge" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" height=30 width=100/>
   <img alt="Mobx badge" src="https://img.shields.io/badge/mobx%20-%23dd5b16.svg?&style=for-the-badge&logo=mobx&logoColor=white" height=30 width=100/>
   <img alt="GraphQL badge" src="https://img.shields.io/badge/graphql%20-%23e00097.svg?&style=for-the-badge&logo=graphql&logoColor=white" height=30 width=100/>
-  <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=white" height=30 width=100/> 
+  <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=black" height=30 width=100/> 
 </p>
 
 <h2> Back End Technologies </h2>
 
 <p>
+  <img alt="NodeJS badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=30 width=100/>
   <img alt="NodeJS badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=30 width=100/>
 </p>
