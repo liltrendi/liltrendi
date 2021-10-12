@@ -5,7 +5,7 @@
 
 🟡 &nbsp;I'm based in <a href="https://www.google.com/maps/place/Nairobi/@-1.3031934,36.5672003,10z/data=!3m1!4b1!4m5!3m4!1s0x182f1172d84d49a7:0xf7cf0254b297924c!8m2!3d-1.2920659!4d36.8219462">**Nairobi, Kenya**.</a>
 
-🟢 &nbsp;I'm currently learning **Data Structures & Algorithms**.
+🟢 &nbsp;I'm currently practicing **Data Structures & Algorithms**.
 
 
 <h2> Let's  Connect </h2>
