@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Brian Njogu](https://njogu.co.ke/)
+### Howdy! 👋 I am [Brian Njogu](https://njogu.co.ke/)
 
 
 🟠 &nbsp;I'm a **Full-Stack Software Engineer** 👋🏾
