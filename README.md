@@ -1,4 +1,4 @@
-###  Howdy 🤠👋 I am [Brian Njogu](https://brayo.co/)
+###  Hello world 🙃👋🏾 I am [Brian Njogu](https://brayo.co/)
 
 
 🟠 &nbsp;I'm a **Software Engineer** with _full stack_ experience 👋🏾
