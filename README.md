@@ -1,5 +1,8 @@
 ###  Hello world 🙃👋🏾 my name is [Brian Njogu](https://brayo.co/)
 
+<p>
+I like to write code and tinker with stuff more often than usual. When I'm not coding, you will typically find me obsessing over cats.
+</p>
 
 🔴 &nbsp; I'm a **software engineer** with _full stack_ experience 🛠️
 
