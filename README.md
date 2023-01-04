@@ -1,6 +1,6 @@
-###  Hello world 🙃👋🏾
+###  Hello world 👋🏾
 
-My name is [Brian Njogu](https://brayo.co/) 😌
+My name is [Brian Njogu](https://brayo.co/) 🙃
 
 <p>
 I like to tinker with stuff and write code more often than usual. When I'm not, you will typically find me obsessing over cats on the internet.
