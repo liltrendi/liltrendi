@@ -10,7 +10,7 @@ I like to tinker with stuff and write code more often not. When I'm not, you wil
 In a nutshell, I am:
 </p>
 
-🛠️&nbsp; A **software engineer** with decent _full stack_ experience
+🛠️&nbsp; A **frontend engineer** with decent _full stack_ experience
 
 🌴&nbsp; Working remotely from <a href="https://www.google.com/maps/place/Nairobi/@-1.3031934,36.5672003,10z/data=!3m1!4b1!4m5!3m4!1s0x182f1172d84d49a7:0xf7cf0254b297924c!8m2!3d-1.2920659!4d36.8219462">**Nairobi, Kenya**</a>
 
