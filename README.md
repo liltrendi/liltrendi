@@ -51,3 +51,7 @@ In a nutshell, I am:
   <img alt="Netlify badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height=30 width=100/>
   <img alt="AWS badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height=30 width=100/>
 </p>
+
+<h2>Reach out</h2>
+
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
