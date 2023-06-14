@@ -1,4 +1,4 @@
-###  Hello world 👋🏾
+##  Hello world 👋🏾
 
 My name is [Brian Njogu](https://brayo.co/) 🙃
 
