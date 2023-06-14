@@ -54,4 +54,6 @@ In a nutshell, I am:
 
 <h2>Reach out</h2>
 
+We can evade any obstacles if we work together, today!
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
