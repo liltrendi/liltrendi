@@ -28,7 +28,7 @@ In a nutshell, I am:
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=liltrendi&hide=contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liltrendi&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
 
-<h2> Front End Technologies </h2>
+<h2> Tools </h2>
 
 <p>
   <img alt="HTML5 badge" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" height=30 width=100/>
@@ -42,11 +42,6 @@ In a nutshell, I am:
   <img alt="Mobx badge" src="https://img.shields.io/badge/mobx%20-%23dd5b16.svg?&style=for-the-badge&logo=mobx&logoColor=white" height=30 width=100/>
   <img alt="GraphQL badge" src="https://img.shields.io/badge/graphql%20-%23e00097.svg?&style=for-the-badge&logo=graphql&logoColor=white" height=30 width=100/>
   <img alt="AWS Amplify badge" src="https://img.shields.io/badge/aws%20amplify%20-%23ffa527.svg?&style=for-the-badge&logo=awsamplify&logoColor=black" height=30 width=100/> 
-</p>
-
-<h2> Back End Technologies </h2>
-
-<p>
   <img alt="NodeJS badge" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=30 width=100/>
   <img alt="Netlify badge" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height=30 width=100/>
   <img alt="AWS badge" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height=30 width=100/>
