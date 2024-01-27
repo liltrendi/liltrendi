@@ -16,7 +16,7 @@ In a nutshell, I am:
 
 👨🏾‍💻&nbsp; Building awesome <a href="https://play.google.com/store/apps/developer?id=Brian+Njogu" target="_blank">**mobile apps**</a> and <a href="https://marketplace.visualstudio.com/publishers/brian-njogu" target="_blank">**Visual Studio Code extensions**</a>
 
-📱&nbsp; Currently exploring the art of <a href="https://developer.apple.com/swift/" target="_blank">**Swift**</a>
+📱&nbsp; Currently exploring <a href="https://www.rust-lang.org/" target="_blank">**Rust**</a>
 
 
 <h2> Let's  Connect 🚀</h2>
