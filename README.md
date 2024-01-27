@@ -1,14 +1,6 @@
 # Hello world 👋🏾
 
-My name is [Brian Njogu](https://brayo.co/) 🙃
-
-<p>
-I like to tinker with stuff and write code more often not. When I'm not, you will typically find me obsessing over cats on the internet.
-</p>
-
-<p>
-In a nutshell, I am:
-</p>
+My name is [Brian Njogu](https://brayo.co/) 🙃 I like to tinker with stuff and write code more often not. When I'm not, you will typically find me obsessing over cats on the internet. In a nutshell, I am:
 
 🛠️&nbsp; A **frontend engineer** with decent _full stack_ experience
 
