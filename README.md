@@ -13,7 +13,7 @@ My name is [Brian Njogu](https://brayo.co/) 🙃 I like to tinker with stuff and
 
 <h2> Let's  Connect 🚀</h2>
 
-<p><a href="https://brayo.co"><img src="https://img.shields.io/badge/website-%23f2bc07.svg?&style=for-the-badge&logo=twitch&logoColor=black" height=30 width=100 alt="Website badge">  <a href="mailto:briancanspit@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.linkedin.com/in/liltrendi/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://www.instagram.com/liltrendi/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge">  <a href="https://twitter.com/liltrendi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+<p><a href="https://brayo.co"><img src="https://img.shields.io/badge/website-%23f2bc07.svg?&style=for-the-badge&logo=twitch&logoColor=black" height=30 width=100 alt="Portfolio"><a href="https://www.linkedin.com/in/liltrendi/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"><a href="https://twitter.com/liltrendi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
   
 <h2>Github stats </h2>
