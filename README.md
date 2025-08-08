@@ -1,4 +1,4 @@
-![picture](dino.gif)
+<img src="dino.gif" style="width: 100%; max-height: 200px; height: auto; margin-bottom: 20px;" />
 
 Hey there, my name is Brian. 🙂
 
@@ -18,8 +18,11 @@ Growing up, I was always fascinated by technology & its endless possibilities. I
 
 <h2>Statistics</h2>
 
-<div style="display:flex; flex-direction: column; gap: 10px;">
-<img style="width: 100%; height: 100px; align-self: stretch; flex: 1;" src="https://github-readme-stats-liltrendi.vercel.app/api/top-langs/?username=liltrendi&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&theme=omni&hide_title=true"/>
-  <img style="width: 100%; height: 100px; align-self: stretch; flex: 1;" 
-       src="https://github-readme-stats.vercel.app/api?username=liltrendi&hide=contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=omni&hide_rank=false&rank_icon=github&hide_title=true&include_all_commits=true&show=prs_merged,prs_merged_percentage"/>
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <img style="width: 100%; object-fit: contain;" 
+       src="https://github-readme-stats-liltrendi.vercel.app/api/top-langs/?username=liltrendi&hide=css&hide_border=true&card_width=320&layout=compact&langs_count=7&theme=omni&hide_title=true"/>
+  
+  <img style="width: 100%; object-fit: contain;" 
+       src="https://github-readme-stats.vercel.app/api?username=liltrendi&hide=contribs&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=omni&hide_rank=false&rank_icon=github&hide_title=true&show=prs_merged,prs_merged_percentage"/>
 </div>
+
