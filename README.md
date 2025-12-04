@@ -6,4 +6,4 @@ Growing up, I was always fascinated by technology & its endless possibilities. I
 
 Now, I build and ship incredible software for companies across the world.
 
-[![Support my work](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-e87b02?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/liltrendi)
+[![Support my work](https://img.shields.io/badge/-Support%20my%20work-e87b02?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://www.buymeacoffee.com/liltrendi)
